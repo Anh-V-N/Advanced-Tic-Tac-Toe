@@ -5,7 +5,7 @@ This is vietnamese version of tictactoe
 '''
 
 rule = '''
-In this version of tictactoe, the play field is much bigger than the oringinal
+In this version of tictactoe, the play field is much bigger than the original
 game. The size is 21x21 instead of 3x3. The valid coordinate is xy for x
 from 1 to 21 and y from a to u. For example, the coordinate for the centre Spot
 is '11k'.
